@@ -473,7 +473,7 @@ span{
 	position: absolute;
 	width: 250px;
 	height: 250px;
-	background: darkmagenta; /* Lighter color */
+	background: darkmagenta; 
 	border-radius: 50%;
 	animation: float 8s ease-in-out infinite alternate;
 	z-index: 1;
